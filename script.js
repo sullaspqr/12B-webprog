@@ -23,7 +23,7 @@ tomb[0] = "A"; // Ez lehetséges
 console.log(tomb);
 console.log(tomb[3]);
 */
-let a = 2;
+let a = 3;
 let b = 3;
 console.log(a + b);
 console.log(a - b);
